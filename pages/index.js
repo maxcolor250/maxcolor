@@ -18,6 +18,8 @@ export default function Home() {
 
         <p className={styles.description}>
           MaxColor is a social enterprise that aims to level up youth through educating, advocating, guidance  and raising mental health awareness.
+                  We are Also bridging the gap between mental health services providers and people in need of their services
+          
         </p>
 
         {/* <div className={styles.grid}>
